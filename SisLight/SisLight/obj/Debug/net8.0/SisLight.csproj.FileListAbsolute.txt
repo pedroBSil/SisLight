@@ -1,0 +1,14 @@
+C:\Users\tarde.cetafaju\source\repos\SisLight\SisLight\bin\Debug\net8.0\SisLight.exe
+C:\Users\tarde.cetafaju\source\repos\SisLight\SisLight\bin\Debug\net8.0\SisLight.deps.json
+C:\Users\tarde.cetafaju\source\repos\SisLight\SisLight\bin\Debug\net8.0\SisLight.runtimeconfig.json
+C:\Users\tarde.cetafaju\source\repos\SisLight\SisLight\bin\Debug\net8.0\SisLight.dll
+C:\Users\tarde.cetafaju\source\repos\SisLight\SisLight\bin\Debug\net8.0\SisLight.pdb
+C:\Users\tarde.cetafaju\source\repos\SisLight\SisLight\obj\Debug\net8.0\SisLight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarde.cetafaju\source\repos\SisLight\SisLight\obj\Debug\net8.0\SisLight.AssemblyInfoInputs.cache
+C:\Users\tarde.cetafaju\source\repos\SisLight\SisLight\obj\Debug\net8.0\SisLight.AssemblyInfo.cs
+C:\Users\tarde.cetafaju\source\repos\SisLight\SisLight\obj\Debug\net8.0\SisLight.csproj.CoreCompileInputs.cache
+C:\Users\tarde.cetafaju\source\repos\SisLight\SisLight\obj\Debug\net8.0\SisLight.dll
+C:\Users\tarde.cetafaju\source\repos\SisLight\SisLight\obj\Debug\net8.0\refint\SisLight.dll
+C:\Users\tarde.cetafaju\source\repos\SisLight\SisLight\obj\Debug\net8.0\SisLight.pdb
+C:\Users\tarde.cetafaju\source\repos\SisLight\SisLight\obj\Debug\net8.0\SisLight.genruntimeconfig.cache
+C:\Users\tarde.cetafaju\source\repos\SisLight\SisLight\obj\Debug\net8.0\ref\SisLight.dll
